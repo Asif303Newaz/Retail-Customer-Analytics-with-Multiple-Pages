@@ -2,8 +2,11 @@
 This repository contains a comprehensive Power BI dashboard project using retail store sales data. The dashboard is divided into multiple pages, each offering detailed insights:
 
 Sales Overview Dashboard:
+<br>
 Total Sales
+<br>
 Quantity Ordered
+<br>
 Average Price
 
 Customer Dynamics Dashboard:
